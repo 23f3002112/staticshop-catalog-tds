@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "email": "23f3002112@ds.study.iitm.ac.in",
+    "version": "fffed901"
+  },
+  "products": [
+    {"id": 1, "name": "Wireless Mouse", "category": "electronics", "price": 499.99, "stock": 120, "rating": 4.3},
+    {"id": 2, "name": "Mechanical Keyboard", "category": "electronics", "price": 2499.00, "stock": 80, "rating": 4.6},
+    {"id": 3, "name": "USB-C Cable", "category": "electronics", "price": 199.50, "stock": 300, "rating": 4.1},
+    {"id": 4, "name": "Bluetooth Speaker", "category": "electronics", "price": 1499.99, "stock": 60, "rating": 4.4},
+    {"id": 5, "name": "Laptop Stand", "category": "electronics", "price": 899.00, "stock": 150, "rating": 4.2},
+
+    {"id": 6, "name": "Running Shoes", "category": "fashion", "price": 1999.95, "stock": 40, "rating": 4.5},
+    {"id": 7, "name": "Cotton T-Shirt", "category": "fashion", "price": 499.00, "stock": 200, "rating": 4.0},
+    {"id": 8, "name": "Denim Jeans", "category": "fashion", "price": 1799.49, "stock": 75, "rating": 4.3},
+    {"id": 9, "name": "Leather Wallet", "category": "fashion", "price": 799.00, "stock": 90, "rating": 4.2},
+
+    {"id": 10, "name": "Cookware Set", "category": "home", "price": 3499.00, "stock": 35, "rating": 4.6},
+    {"id": 11, "name": "LED Desk Lamp", "category": "home", "price": 899.99, "stock": 110, "rating": 4.4},
+    {"id": 12, "name": "Water Bottle", "category": "home", "price": 299.50, "stock": 250, "rating": 4.1},
+    {"id": 13, "name": "Storage Organizer", "category": "home", "price": 699.00, "stock": 140, "rating": 4.2},
+
+    {"id": 14, "name": "Data Science Handbook", "category": "books", "price": 499.99, "stock": 10, "rating": 4.8},
+    {"id": 15, "name": "Machine Learning Guide", "category": "books", "price": 699.48, "stock": 7, "rating": 4.7}
+  ],
+  "aggregations": {
+    "books": {
+      "count": 2,
+      "inventoryValue": 9894.79
+    }
+  }
+}
