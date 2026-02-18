@@ -4,24 +4,21 @@
     "version": "fffed901"
   },
   "products": [
-    {"id": 1, "name": "Wireless Mouse", "category": "electronics", "price": 499.99, "stock": 120, "rating": 4.3},
-    {"id": 2, "name": "Mechanical Keyboard", "category": "electronics", "price": 2499.00, "stock": 80, "rating": 4.6},
-    {"id": 3, "name": "USB-C Cable", "category": "electronics", "price": 199.50, "stock": 300, "rating": 4.1},
-    {"id": 4, "name": "Bluetooth Speaker", "category": "electronics", "price": 1499.99, "stock": 60, "rating": 4.4},
-    {"id": 5, "name": "Laptop Stand", "category": "electronics", "price": 899.00, "stock": 150, "rating": 4.2},
-
-    {"id": 6, "name": "Running Shoes", "category": "fashion", "price": 1999.95, "stock": 40, "rating": 4.5},
-    {"id": 7, "name": "Cotton T-Shirt", "category": "fashion", "price": 499.00, "stock": 200, "rating": 4.0},
-    {"id": 8, "name": "Denim Jeans", "category": "fashion", "price": 1799.49, "stock": 75, "rating": 4.3},
-    {"id": 9, "name": "Leather Wallet", "category": "fashion", "price": 799.00, "stock": 90, "rating": 4.2},
-
-    {"id": 10, "name": "Cookware Set", "category": "home", "price": 3499.00, "stock": 35, "rating": 4.6},
-    {"id": 11, "name": "LED Desk Lamp", "category": "home", "price": 899.99, "stock": 110, "rating": 4.4},
-    {"id": 12, "name": "Water Bottle", "category": "home", "price": 299.50, "stock": 250, "rating": 4.1},
-    {"id": 13, "name": "Storage Organizer", "category": "home", "price": 699.00, "stock": 140, "rating": 4.2},
-
-    {"id": 14, "name": "Data Science Handbook", "category": "books", "price": 499.99, "stock": 10, "rating": 4.8},
-    {"id": 15, "name": "Machine Learning Guide", "category": "books", "price": 699.48, "stock": 7, "rating": 4.7}
+    {"id": "prod-fffed901-001", "name": "Elite Item 1", "category": "electronics", "price": 12.68, "stock": 134, "rating": 1.8},
+    {"id": "prod-fffed901-002", "name": "Pro Item 2", "category": "sports", "price": 241.48, "stock": 134, "rating": 1.1},
+    {"id": "prod-fffed901-003", "name": "Pro Item 3", "category": "sports", "price": 233.18, "stock": 166, "rating": 3.3},
+    {"id": "prod-fffed901-004", "name": "Basic Item 4", "category": "sports", "price": 299.07, "stock": 106, "rating": 3.4},
+    {"id": "prod-fffed901-005", "name": "Elite Item 5", "category": "electronics", "price": 249.62, "stock": 141, "rating": 1},
+    {"id": "prod-fffed901-006", "name": "Premium Item 6", "category": "clothing", "price": 276.42, "stock": 63, "rating": 1.5},
+    {"id": "prod-fffed901-007", "name": "Standard Item 7", "category": "sports", "price": 421.31, "stock": 33, "rating": 4.2},
+    {"id": "prod-fffed901-008", "name": "Basic Item 8", "category": "home", "price": 244.79, "stock": 150, "rating": 4},
+    {"id": "prod-fffed901-009", "name": "Premium Item 9", "category": "home", "price": 144.44, "stock": 2, "rating": 2.9},
+    {"id": "prod-fffed901-010", "name": "Basic Item 10", "category": "electronics", "price": 355.9, "stock": 2, "rating": 1.6},
+    {"id": "prod-fffed901-011", "name": "Basic Item 11", "category": "clothing", "price": 82.18, "stock": 63, "rating": 3.4},
+    {"id": "prod-fffed901-012", "name": "Basic Item 12", "category": "clothing", "price": 22.2, "stock": 18, "rating": 4.1},
+    {"id": "prod-fffed901-013", "name": "Standard Item 13", "category": "books", "price": 123.43, "stock": 8, "rating": 4.4},
+    {"id": "prod-fffed901-014", "name": "Pro Item 14", "category": "clothing", "price": 125.66, "stock": 135, "rating": 2.3},
+    {"id": "prod-fffed901-015", "name": "Basic Item 15", "category": "books", "price": 61.43, "stock": 145, "rating": 1.4}
   ],
   "aggregations": {
     "books": {
