@@ -21,9 +21,25 @@
     {"id": "prod-fffed901-015", "name": "Basic Item 15", "category": "books", "price": 61.43, "stock": 145, "rating": 1.4}
   ],
   "aggregations": {
+    "electronics": {
+      "count": 3,
+      "inventoryValue": 38768.44
+    },
+    "sports": {
+      "count": 4,
+      "inventoryValue": 120510.37
+    },
+    "clothing": {
+      "count": 4,
+      "inventoryValue": 36647.16
+    },
+    "home": {
+      "count": 2,
+      "inventoryValue": 37010.38
+    },
     "books": {
       "count": 2,
-      "inventoryValue": 9894.790000000001
+      "inventoryValue": 9894.79
     }
   }
 }
